@@ -1,0 +1,31 @@
+#container {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+
+.color {
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.clr1{
+    background-color: yellow;
+}
+
+.clr2{
+    background-color: Gray;
+}
+
+.clr3{
+    background-color: red;
+}
+
+.clr4{
+    background-color: purple;
+}
+.clr5{
+    background-color: aqua;
+}
